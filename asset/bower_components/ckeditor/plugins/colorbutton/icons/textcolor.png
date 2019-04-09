@@ -1,0 +1,17 @@
+"Activado" />
+    </setting>
+    <setting name="Photorealistic Lighting" translation="Iluminación con calidad fotográfica">
+      <value name="Off" translation="Desactivada" />
+      <value name="On" translation="Activada" />
+    </setting>
+    <setting name="Post Effects" translation="Postefectos">
+      <value name="Off" translation="Desactivados" />
+      <value name="On" translation="Activados" />
+    </setting>
+    <setting name="Radial Blur" translation="Desenfoque radial">
+      <value name="Off" translation="Desactivado" />
+      <value name="On" translation="Activado" />
+    </setting>
+    <setting name="Reflection Detail" translation="Detalle de reflejos">
+      <value name="100%" translation="100%" />
+      <value name

@@ -1,0 +1,159 @@
+_Exe_Name] krater
+{ASCII}[Config] 
+{ULONG}[Value] 4
+{ULONG}[Compat] 4
+{ASCII}[Comments] Some effects render incorrectly
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] L.A. Noire
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] LANoire
+{ASCII}[R_Exe_Name] L.A. Noire
+{ASCII}[Config] 
+{ULONG}[Value] 0
+{ULONG}[Compat] 0
+{ASCII}[Comments] 3DVR (DX9)
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] LA Street Racing
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] LASR
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Turn off Noise and Motion Blur
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Lead and Gold
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] lag_win32_public_dev
+{ASCII}[Config] Y
+{ULONG}[Value] 5
+{ULONG}[Compat] 5
+{ASCII}[Comments] Objects render at wrong depth.
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] League of Legends
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] League of Legends
+{ASCII}[Config] Y
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Some objects render at wrong depth
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Left 4 Dead
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] left4dead
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Clouds at wrong depth Setting film grain to off provides better stereo effect
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Left 4 Dead 2
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] left4dead2
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Go to Options/Video Set Film Grain Amount to 0  Setting film grain to off provides better stereo effect Sky renders at wrong depth Reflection on water is 2d
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Legend - Hand of god
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] legend
+{ASCII}[Config] Y
+{ULONG}[Value] 0
+{ULONG}[Compat] -1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Legendary
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Legendary
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] smoke causes a halo around objects
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Lego Batman
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] LEGOBatman
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Set Shadows to off Some objects render in 2d (Batarang aiming icon, action arrows) Smoke renders at wrong depth Fog and haze renders with halo around objects
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Lego Clone Wars
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] LEGOCloneWars
+{ASCII}[Config] Y
+{ULONG}[Value] 4
+{ULONG}[Compat] 4
+{ASCII}[Comments] Go To: Options/Video Settings: Enhanced Graphics = Off  Some objects render at wrong depth Some objects render incorrectly
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Lego Harry Potter
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] LEGOHarryPotter
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Cut scenes are out of screen Go To: Options/Effect Settings Depth of Field =Off Motion Blur = Off
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] LEGO Harry Potter 2
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] LEGOHarry2
+{ASCII}[Config] 
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Some objects render at wrong depth Some cut scenes render too far out of screen
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Lego Indiana Jones
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] LEGOIndyDEMO
+{ASCII}[R_Exe_Name] LEGOIndy
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Rope is at wrong depth
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] LEGO Indiana Jones 2
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] LEGOIndy2
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Cut scenes are out of screen  Go To: Options/Effect Settings Depth o

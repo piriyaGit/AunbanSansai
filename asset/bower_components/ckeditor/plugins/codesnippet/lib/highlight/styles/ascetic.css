@@ -1,0 +1,18 @@
+tion="Низко" />
+      <value name="Medium" translation="Средне" />
+    </setting>
+    <setting name="Characters Shadow" translation="Тени персонажей">
+      <value name="High" translation="Высоко" />
+      <value name="Medium" translation="Средне" />
+      <value name="Off" translation="Выкл." />
+    </setting>
+    <setting name="Depth of Field" translation="Глубина резкости">
+      <value name="High" translation="Высокая" />
+      <value name="Low" translation="Низкая" />
+      <value name="Medium" translation="Средняя" />
+    </setting>
+    <setting name="Display Fog" translation="Показывать туман">
+      <value name="Off" translation="Выкл." />
+      <value name="On" translation="Вкл." />
+    </setting>
+    <setting name="Dis

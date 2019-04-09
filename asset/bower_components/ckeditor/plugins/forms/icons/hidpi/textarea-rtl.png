@@ -1,0 +1,22 @@
+"Lighting Detail" translation="Verlichtingsdetail">
+      <value name="High" translation="Hoog" />
+      <value name="Low" translation="Laag" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Multi-Frame Sampled Anti-Aliasing">
+      <value name="Off" translation="Uit" />
+      <value name="On" translation="Aan" />
+    </setting>
+    <setting name="Post-processing Detail" translation="Naverwerkingsdetail">
+      <value name="High (DX10 or Above)" translation="Hoog (DX10 of hoger)" />
+      <value name="Low" translation="Laag" />
+      <value name="Off" translation="Uit" />
+    </setting>
+    <setting name="Preset" translation="Voorinstelling">
+      <value name="Custom" translation="Aangepast" />
+      <value name="High" translation="Hoog" />
+      <value name="Low" translation="Laag" />
+      <value name="Medium" translation="Gemiddeld" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="Reflections" translation="Reflecties">
+      <value name="High (DX10 or Abo

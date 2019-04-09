@@ -1,0 +1,28 @@
+00%" />
+      <value name="25%" translation="25%" />
+      <value name="50%" translation="50%" />
+    </setting>
+    <setting name="Terrain Surface Detail" translation="Detalle de superficie del terreno">
+      <value name="0%" translation="0%" />
+      <value name="100%" translation="100%" />
+      <value name="25%" translation="25%" />
+      <value name="50%" translation="50%" />
+      <value name="75%" translation="75%" />
+    </setting>
+    <setting name="Texture Detail" translation="Detalle de las texturas">
+      <value name="100%" translation="100 %" />
+      <value name="25%" translation="25 %" />
+      <value name="50%" translation="50 %" />
+    </setting>
+    <setting name="Texture Filtering" translation="Filtrado de textura">
+      <value name="Anisotropic 16x" translation="Anisotrópico 16x" />
+      <value name="Anisotropic 4x" translation="Anisotrópico 4x" />
+      <value name="Anisotropic 8x" translation="Anisotrópico 8x" />
+      <value name="Trilinear" translation="Trilineal" />
+    </setting>
+    <setting name="World Detail" translation="Detalle del mundo">
+      <value name="0%" translation="0 %" />
+      <value name="100%" translation="100 %" />
+      <value name="25%" translation="25 %" />
+      <value name="50%" translation="50 %" />
+      <

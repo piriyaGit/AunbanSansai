@@ -1,0 +1,179 @@
+slation="Aktiver HDR-gjengivelse">
+      <value name="Off" translation="Av" />
+      <value name="On" translation="PÃ¥" />
+    </setting>
+    <setting name="Enable Wet Shader" translation="Aktiver vÃ¥t skyggelegging">
+      <value name="Off" translation="Av" />
+      <value name="On" translation="PÃ¥" />
+    </setting>
+    <setting name="Enemy Physics" translation="Fiendefysikk">
+      <value name="Full" translation="Fullstendig" />
+      <value name="Off" translation="Av" />
+      <value name="Simple" translation="Enkel" />
+    </setting>
+    <setting name="Enemy Shadows" translation="Fiendeskygger">
+      <value name="Display" translation="Skjerm" />
+      <value name="Hide" translation="Skjul" />
+    </setting>
+    <setting name="Glare" translation="Reflekser">
+      <value name="Low" translation="Lav" />
+      <value name="Normal" translation="Normal" />
+      <value name="Off" translation="Av" />
+    </setting>
+    <setting name="Grass Quality" translation="Gresskvalitet">
+      <value name="High" translation="HÃ¸y" />
+      <value name="Low" translation="Lav" />
+      <value name="Normal" translation="Normal" />
+      <value name="Off" translation="Av" />
+    </setting>
+    <setting name="Limb Darkening" translation="Vignett">
+      <value name="Off" translation="Av" />
+      <value name="On" translation="PÃ¥" />
+    </setting>
+    <setting name="LOD" translation="LOD">
+      <value name="Off" translation="Av" />
+      <value name="On" translation="PÃ¥" />
+    </setting>
+    <setting name="LOD Streaming" translation="LOD-streaming">
+      <value name="Off" translation="Av" />
+      <value name="On" translation="PÃ¥" />
+    </setting>
+    <setting name="Map Resolution" translation="KartopplÃ¸sning">
+      <value name="High" translation="HÃ¸y" />
+      <value name="Normal" translation="Normal" />
+    </setting>
+    <setting name="NPC Physics" translation="NPC-fysikk">
+      <value name="Full" translation="Fullstendig" />
+      <value name="Off" translation="Av" />
+      <value name="Simple" translation="Enkel" />
+    </setting>
+    <setting name="NPC Shadows" translation="NPC-skygger">
+      <value name="Display" translation="Skjerm" />
+      <value name="Hide" translation="Skjul" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA AvsÃ¸kt flerramme-kantutjevning">
+      <value name="Off" translation="Av" />
+      <value name="On" translation="PÃ¥" />
+    </setting>
+    <setting name="Occlusion Culling" translation="Reduksjon av omgivelsesbetinget lys">
+      <value name="Off" translation="Av" />
+      <value name="On" translation="PÃ¥" />
+    </setting>
+    <setting name="Party Member Physics" translation="Gruppemedlemfysikk">
+      <value name="Full" translation="Fullstendig" />
+      <value name="Off" translation="Av" />
+      <value name="Simple" translation="Enkel" />
+    </setting>
+    <setting name="Party Member Shadows" translation="Gruppemedlemskygger">
+      <value name="Display" translation="Skjerm" />
+      <value name="Hide" translation="Skjul" />
+    </setting>
+    <setting name="Radial Blur" translation="Radiell uskarphet">
+      <value name="Off" translation="Av" />
+      <value name="On" translation="PÃ¥" />
+    </setting>
+    <setting name="Real-time Reflections" translation="Sanntidsreflekser">
+      <value name="High" translation="HÃ¸y" />
+      <value name="Normal" translation="Normal" />
+      <value name="Off" translation="Av" />
+    </setting>
+    <setting name="Resolution" translation="OpplÃ¸sning" />
+    <setting name="Screen Space Ambient Occlusion" translation="Omgivelsesbetinget lys i skjermrom">
+      <value name="Off" translation="Av" />
+      <value name="Strong" translation="Sterk" />
+      <value name="Weak" translation="Svak" />
+    </setting>
+    <setting name="Self Physics" translation="Egenfysikk">
+      <value name="Full" translation="Full" />
+      <value name="Off" translation="Av" />
+      <value name="Simple" translation="Enkel" />
+    </setting>
+    <setting name="Self Shadows" translation="Egne skygger">
+      <value name="Display" translation="Skjerm" />
+      <value name="Hide" translation="Skjul" />
+    </setting>
+    <setting name="Shadow Cascading" translation="Skyggeoverlapping">
+      <value name="Best" translation="Best" />
+      <value name="Normal" translation="Normal" />
+      <value name="Off" translation="Av" />
+    </setting>
+    <setting name="Shadow Resolution" translation="SkyggeopplÃ¸sning">
+      <value name="High: 2048 Pixels" translation="HÃ¸y: 2048 piksler" />
+      <value name="Low: 512 Pixels" translation="Lav: 512 piksler" />
+      <value name="Mid: 1024 Pixels" translation="Middels: 1024 piksler" />
+    </setting>
+    <setting name="Shadow Softening" translation="Skyggeutjevning">
+      <value name="Strong" translation="Sterk" />
+      <value name="Weak" translation="Svak" />
+    </setting>
+    <setting name="Texture Filtering" translation="Teksturfiltrering">
+      <value name="Anisotropic" translation="Anisotropisk" />
+      <value name="Bilinear" translation="Tolinjet" />
+      <value name="Trilinear" translation="Trelinjet" />
+    </setting>
+    <setting name="Transparent Lighting Quality" translation="Transparent lyskvalitet">
+      <value name="High" translation="HÃ¸y" />
+      <value name="Normal" translation="Normal" />
+    </setting>
+    <setting name="Use Low Detail Shadow Models" translation="Bruk skyggemodeller med lite detaljer">
+      <value name="Off" translation="Av" />
+      <value name="On" translation="PÃ¥" />
+    </setting>
+  </language>
+  <language name="nl_NL" translation="">
+    <setting name="Anisotropic Filtering" translation="Anisotropische filtering">
+      <value name="16x" translation="16x" />
+      <value name="4x" translation="4x" />
+      <value name="8x" translation="8x" />
+    </setting>
+    <setting name="Anti-aliasing" translation="Anti-aliasing">
+      <value name="FXAA" translation="FXAA" />
+      <value name="Off" translation="Uit" />
+    </setting>
+    <setting name="DirectX Version" translation="DirectX versie">
+      <value name="DirectX 11" translation="DirectX 11" />
+      <value name="DirectX 9" translation="DirectX 9" />
+    </setting>
+    <setting name="Display Mode" translation="Beeldschermmodus">
+      <value name="Full-screen" translation="Volledig scherm" />
+      <value name="Windowed" translation="In venster" />
+      <value name="Windowed Borderless" translation="Randloos zonder vensters" />
+    </setting>
+    <setting name="Enable Depth of Field" translation="Scherptediepte inschakelen">
+      <value name="Off" translation="Uit" />
+      <value name="On" translation="Aan" />
+    </setting>
+    <setting name="Enable HDR Rendering" translation="HDR-rendering inschakelen">
+      <value name="Off" translation="Uit" />
+      <value name="On" translation="Aan" />
+    </setting>
+    <setting name="Enable Wet Shader" translation="Shader natte oppervlakken inschakelen">
+      <value name="Off" translation="Uit" />
+      <value name="On" translation="Aan" />
+    </setting>
+    <setting name="Enemy Physics" translation="Vijandphysics">
+      <value name="Full" translation="Volledig" />
+      <value name="Off" translation="Uit" />
+      <value name="Simple" translation="Eenvoudig" />
+    </setting>
+    <setting name="Enemy Shadows" translation="Vijandschaduwen">
+      <value name="Display" translation="Weergave" />
+      <value name="Hide" translation="Verbergen" />
+    </setting>
+    <setting name="Glare" translation="Schittering">
+      <value name="Low" translation="Laag" />
+      <value name="Normal" translation="Normaal" />
+      <value name="Off" translation="Uit" />
+    </setting>
+    <setting name="Grass Quality" translation="Graskwaliteit">
+      <value name="High" translation="Hoog" />
+      <value name="Low" translation="Laag" />
+      <value name="Normal" translation="Normaal" />
+      <value name="Off" translation="Uit" />
+    </setting>
+    <setting name="Limb Darkening" translation="Vignet"XXX8/ðu$¾ŽÄÂÂÒÞ$fØ½iP|¡a÷FÀØ±c¯¬-œW`t/€š+,.pÆÌñãÇ&à……4ôrÌ˜1½œ€¤#ÏJþ~U3þXøi¨ƒ<“Ï/'À9†¡§oÚ:q[á)1¾¦ÔžXjWfaiÒÐÐ0núôéë§Ÿ~º Oõ;>IÏ8ãŒµ°IÓ¦M[÷Õ¯~UÄ(lTD¯wØœzê©òx@¨jZFËÉFÊÄ‰ÓÂ6lJmB6RN:é$+ÀæÁõu[uuuÑ”q•×MÇôA’'D&æÇn…ŒÍèÑ£­µ©µ¢\’Xä÷ƒVf 9rd(g,;lØ0g{±Þ¤)`àÀNºuë& ƒC†‘ß»wï¾ÃæðÃß0`À 1hÐ œª Ó2)‡rÈ™	uÓ lŠrêwÎœ8/p^à¼ÀÂâúúú¯={‡-];82¶â±cÇÊŠ­—?‚¯féb.,0À (¼Jí¥÷D–X’ßŠý’ƒé
+ïEYåÈ{S™ òýí˜Ÿµ?J~ÑÖlb.ý–¾lø¦1ªÚ…éBt>p¹k«µú€ª7¡j=ÏÂÒºÒ£Gõ‰n
+Ñƒ>xMp÷Ýw¿ŸühÂ'ÑØØØüè£~¼zõj©øþÀ|<{öìâêMåòG×@1}ùòåÍ($\x`óæÍÇ%Ë1OæÀDONtÉ}÷Ý÷1®àôíÛ÷ÀœI3ï¼óÎæ“O>Y^`HÎêoÕkJÊœzÛm·‰K.¹¤ÆØIK–,€:T$í],ÞE+33Ñ¬š¬<Ñ¢E*d¾ñJùîÍ7ßLæž={½i_zé¥‹¿ñoˆ¤ãðâçc£Œ;ì°ý8âˆÇÿð‡?¼•OŽ2Nzÿà^½z=ñÈ#¬IŒG™ÊtÐAßíÞ½ûs+’ûJïÞ½W¯Y³æ©Ä¸¯¥‚¤[†n~ýõ×Ô©ýŽ:ê¨—]vÙßêêêf'»m“¦3’2×ôéÓ{åÖ¤‚®jÍÃã­¸ÌwÜqÇaOËi¿~ýäÅ(ì‰Éfþ]¦öcŽ9æï§œrŠÀ¥NŸN™2E¬[·nª¾ÝÑÛê»˜E–cKËË¸qãþ™›„õ[\— œ Ÿ± ·C.>8ò–þÍ¬ýý?•Sž?E’ï«¿V“æý)ÔøBeìÑ¸Êò3+gkOyÉV8¡RøÚ™hêíõ 4V&ÛÛXY¾×ÖÖžÜp_„3ÚEo…ä—È±À‰­·ð`&–.®ÝÁ¶øR9œî‚ ¡ã4­Í©zN \@¹!
+€ ]Áx8&'<U1:“‚k%Ì¿àPÌ×,r„š3œ öW’ÈºŠñÆÊ&lîšÕ”6¥¸Øœ0VÍœXX
+È°aÃ®>|¸Ðô:¯á{ìÑëøã——påbÆŒRÏ<óLyÂ1(ìe³ï‰.?ü°48ãŒ30³½hjj’sÏ=W.Çh˜c=¶gÎ:9{>ø xóÍ7ÅÓO?_¥Ò@%èœsÎ‘Üh˜#<òò™3gŠµk×Šçž{§öâ¼óÎ6@OÐœ¤O.O½{÷÷ß¿xþùçÅO<!ž}öY	A_`D Ð³Î:KBàYf( /¾ø¢xæ™gÄc=&!x;Ì5×\#0ZjòäÉò¢tÚ´i€!5VÀã?.ÿ¾çž{Ä‚ÄâÅ‹®ŸÝ~ûíâŽ;î¸T–R£6aõêÕâÉ'Ÿ”}qùå—‹¹sçŠë¯¿^ÜpÃâÆoÄµqÕUWaKc'®Y³F‚®»î:ñÓŸþTæÍ›'æÏŸ/ðMèÛ·ïåÆÍˆÎƒW\q…˜3gŽ4„jí¶áG=Ñ1üãeaèM7Ý$û`áÂ…²fc·þÒ—¾ÔÓ¸+î¾ûî½0.	›ÜrË-R¯¼òJé6:®[·n½¼ÇD¿~ý®C'©ŠefXÚ±ôèÑC”Q¼DFž"
+[9`ÐàE]] 9ØuÒ¤I…=€­°ZFÓA®EDÚÒ€UÎ…´¥A®/îTÄiKƒ\‹ˆ´1bDa¤-â|Q¤-Šx”ò è‘X¦r–Î%ÿî Éc    IEND®B`‚

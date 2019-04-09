@@ -1,0 +1,273 @@
+net Battle for Natrolis
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] Dark
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] 
+{ULONG}[Value] 2
+{ULONG}[Compat] 5
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Whole world is at same depth
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dark Reign 2
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] NoName/dr2
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dark Vengeance
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] dv
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 3
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Demo does not run, config is based on setup screens.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Darkened Skye
+{ASCII}[PF_Issues] E,K
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Skye
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Darkstone
+{ASCII}[PF_Issues] D,F
+{ASCII}[D_EXE_Name] DarkstoneDemo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <TopView
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dave Mirra Freestyle BMX
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] NgBMXDemo
+{ASCII}[R_Exe_Name] NgBMX
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dawn of Aces
+{ASCII}[PF_Issues] E
+{ASCII}[D_EXE_Name] doad3d
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] Map mixes 2D and 3D objects
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dead Reckoning
+{ASCII}[PF_Issues] F
+{ASCII}[D_EXE_Name] DeadReck
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Deadly Dozen
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] WW2Game
+{ASCII}[R_Exe_Name] NoName/WW2Game
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Do not use TnL Hal. Minimize in-game cursor. [LaserSight}
+{ASCII}[Developer_Issues] TnL Hal has treetops, grass at monitor depth.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Deadly Dozen 2 Pacific Theater
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] DDozen2_demo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] 
+{ULONG}[Value] 0
+{ULONG}[Compat] -1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Deathtrap Dungeon
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] dd_cd
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Some special effects at wrong depth
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Deep Fighter
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] dfdemo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Deer Avenger 3
+{ASCII}[PF_Issues] A,F
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Da3
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 3
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Horizon at wrong depth, gunsight is 2D in some cases.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Deer Avenger 4
+{ASCII}[PF_Issues] F,K
+{ASCII}[D_EXE_Name] Da4Demo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Deer Hunt3D
+{ASCII}[PF_Issues] D,F
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Deer Hunt 3D (Direct 3D)
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 4
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Scope & binocular subviews done incorrectly.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Deer Hunter 4
+{ASCII}[PF_Issues] A,G
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Deer Hunter 4
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Gunsight has wrong depth to be used in stereo unless convergence is turned way down.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Deer Hunter 5
+{ASCII}[PF_Issues] F
+{ASCII}[D_EXE_Name] Deer Hunter 5 Demo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Deer Hunter III
+{ASCII}[PF_Issues] D,F,G
+{ASCII}[D_EXE_Name] Deer Hunter 3
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 4
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Setup screens mix 2d/3d incorrectly.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Defense Commander
+{ASCII}[PF_Issues] F
+{ASCII}[D_EXE_Name] dcpc
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Defiance
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] D3d
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Delta Force 3: Land Warrior
+{ASCII}[PF_Issues] A,D,E,F,G,J,K
+{ASCII}[D_EXE_Name] Dflwdem
+{ASCII}[R_Exe_Name] Dflw
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 3
+{ASCII}[Comments] Use F3 to turn off in-game laser does not work for demo) [LaserSight]
+{ASCII}[Developer_Issues] Point artifacts in terrain with stereo on, target sight is 2D, gun is 2D, Halos on lights, sky, water at wrong depth..
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Demolition Champions(Smash Up Derby)
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] cars
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Demolition Derby & Figure 8 Race
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] DerbyDemo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Demolition Racer
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] DR_MAG_DEMO
+{ASCII}[R_Exe_Name] Dr
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Descent 3
+{ASCII}[PF_Issues] D,F,K
+{ASCII}[D_EXE_Name] main/Descent 3 Demo 2
+{ASCII}[R_Exe_Name] main/Descent 3
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <Turn Off Reticule in game settings [LaserSight]
+{ASCII}[Developer_Issues] 

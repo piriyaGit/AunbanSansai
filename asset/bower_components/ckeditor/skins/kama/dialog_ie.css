@@ -1,0 +1,246 @@
+ Bu 3D</DisplayName>
+    <Version name='generic'>
+      <CMSID>18114611</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Files>
+        <File name='Launch.exe' />
+        <File name='Bin\TLBBIE.exe' />
+        <File name='Bin\TLBBDownload.exe' />
+        <File name='Bin\AntiHiDetect.exe' />
+        <File name='Data\MeshLightmap1.axp' />
+        <File name='Data\scene1.axp' />
+      </Files>
+      <Icon>Launch.exe</Icon>
+      <Image>Game.exe</Image>
+      <InstallDirRegValues>
+        <ValuePath level='1'>HKEY_CURRENT_USER\\SOFTWARE\\SOHU\\FireFox\\TLBB\\wmRunPath</ValuePath>
+      </InstallDirRegValues>
+      <IsAutomatable>1</IsAutomatable>
+      <IsStreamingSupported>1</IsStreamingSupported>
+      <Launch>Launch.exe</Launch>
+      <ResolutionAlgorithm>1</ResolutionAlgorithm>
+      <StreamingCaption>&#x65B0;&#x5929;&#x9F99;&#x516B;&#x90E8;</StreamingCaption>
+      <StreamingClassName>TianLongBaBu WndClass</StreamingClassName>
+      <StreamingCmdLine>Launch.exe</StreamingCmdLine>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='tian_xia_iii'>
+    <DisplayName>Tian Xia III</DisplayName>
+    <Version name='generic'>
+      <CMSID>17946411</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Files>
+        <File name='tx3\launch.exe' />
+        <File name='tx3\game\tw2.exe' />
+        <File name='tx3\repairer.exe' />
+      </Files>
+      <Icon>launch.exe</Icon>
+      <Image>tw2.exe</Image>
+      <InstallDirRegValues>
+        <ValuePath>HKEY_CURRENT_USER\\SOFTWARE\\WinRAR SFX\\C%%Program Files (x86)%Netease</ValuePath>
+      </InstallDirRegValues>
+      <IsAutomatable>1</IsAutomatable>
+      <IsStreamingSupported>1</IsStreamingSupported>
+      <Launch>launch.exe</Launch>
+      <StreamingCaption>&#x5929;&#x4E0B;3</StreamingCaption>
+      <StreamingClassName>NETEASE-TX3-APP</StreamingClassName>
+      <StreamingCmdLine>launch.exe</StreamingCmdLine>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='tian_yu'>
+    <DisplayName>Tian Yu</DisplayName>
+    <Version name='generic'>
+      <CMSID>18114711</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Files>
+        <File name='tystart.exe' />
+        <File name='game\tianyu.exe' />
+      </Files>
+      <Icon>tystart.exe</Icon>
+      <Image>tianyu.exe</Image>
+      <Image>tianyu_beta.exe</Image>
+      <InstallDirRegValues>
+        <ValuePath level='1' view='32'>HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\tianyu\\UninstallString</ValuePath>
+        <ValuePath level='1' view='32'>HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\tianyu\\DisplayIcon</ValuePath>
+      </InstallDirRegValues>
+      <IsAutomatable>1</IsAutomatable>
+      <IsStreamingSupported>1</IsStreamingSupported>
+      <Launch>tystart.exe</Launch>
+      <StreamingCaption>&#x5929;&#x8C15;</StreamingCaption>
+      <StreamingClassName>NETEASE-TY-APP</StreamingClassName>
+      <StreamingCmdLine>tystart.exe</StreamingCmdLine>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='titanfall'>
+    <DisplayName>Titanfall</DisplayName>
+    <Version name='generic'>
+      <CMSID>17946511</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Distributor>Origin</Distributor>
+      <Files>
+        <File name='Titanfall.exe' />
+      </Files>
+      <Hypersampling>-1</Hypersampling>
+      <Icon>Titanfall.exe</Icon>
+      <Image>Titanfall.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <IsStreamingSupported>1</IsStreamingSupported>
+      <Launch>Titanfall.exe</Launch>
+      <OriginAppIds>
+        <id>Titanfall</id>
+      </OriginAppIds>
+      <StreamingAutomatedLaunch>1</StreamingAutomatedLaunch>
+      <StreamingCaption>Titanfall</StreamingCaption>
+      <StreamingClassName>Titanfall</StreamingClassName>
+      <StreamingCmdLine>Titanfall.exe</StreamingCmdLine>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='titanfall_2'>
+    <DisplayName>Titanfall 2</DisplayName>
+    <Version name='origin'>
+      <CMSID>100007711</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Files>
+        <File name='Titanfall2.exe' />
+        <File name='server.dll' />
+      </Files>
+      <Icon>Titanfall2.exe</Icon>
+      <Image>Titanfall2.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <IsStreamingSupported>1</IsStreamingSupported>
+      <Launch>Titanfall2.exe</Launch>
+      <OriginAppIds>
+        <id>Titanfall2</id>
+      </OriginAppIds>
+      <StreamingAutomatedLaunch>0</StreamingAutomatedLaunch>
+      <StreamingCaption>Titanfall 2</StreamingCaption>
+      <StreamingClassName>Respawn001</StreamingClassName>
+      <StreamingCmdLine>Titanfall2.exe</StreamingCmdLine>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='tmnt_mim'>
+    <CMSID>18315511</CMSID>
+    <CMSVersion>1</CMSVersion>
+    <DisplayName>Teenage Mutant Ninja Turtles: Mutants in Manhattan</DisplayName>
+    <Version name='steam-generic'>
+      <Distributor>Steam</Distributor>
+      <Files>
+        <File name='TMNT_MiM.exe' />
+        <File name='steam_api.dll' />
+      </Files>
+      <Icon>TMNT_MiM.exe</Icon>
+      <Image>TMNT_MiM.exe</Image>
+      <IsAutomatable>0</IsAutomatable>
+      <IsStreamingSupported>1</IsStreamingSupported>
+      <Launch>start steam://rungameid/338400</Launch>
+      <SteamAppIds>
+        <id>338400</id>
+      </SteamAppIds>
+      <StreamingCaption>Teenage Mutant Ninja Turtles: Mutants in Manhattan</StreamingCaption>
+      <StreamingClassName>Teenage Mutant Ninja Turtles: Mutants in Manhattan_MainWindow</StreamingClassName>
+      <StreamingCmdLine>start steam://rungameid/338400</StreamingCmdLine>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='tom_clancys_rainbow_six_siege'>
+    <DisplayName>Tom Clancy&apos;s Rainbow Six Siege</DisplayName>
+    <Version name='uplay'>
+      <CMSID>100044111</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Distributor>Uplay</Distributor>
+      <FRLPOPS>21</FRLPOPS>
+      <Files>
+        <File name='RainbowSix.exe' />
+        <File name='uplay_install.state' />
+      </Files>
+      <Hypersampling>9</Hypersampling>
+      <HypersamplingFactors>2;4</HypersamplingFactors>
+      <Icon>RainbowSix.exe</Icon>
+      <Image>RainbowSix.exe</Image>
+      <InstallDirRegValues>
+        <ValuePath view='32'>HKEY_LOCAL_MACHINE\\SOFTWARE\\Ubisoft\\Launcher\\Installs\\635\\InstallDir</ValuePath>
+      </InstallDirRegValues>
+      <IsAutomatable>1</IsAutomatable>
+      <IsStreamingSupported>1</IsStreamingSupported>
+      <Launch>RainbowSix.exe</Launch>
+      <StreamingCaption>Rainbow Six</StreamingCaption>
+      <StreamingClassName>R6Game  (Unicode)</StreamingClassName>
+      <StreamingCmdLine>RainbowSix.exe</StreamingCmdLine>
+      <WhisperModePopsFactor>0.312</WhisperModePopsFactor>
+    </Version>
+    <Version name='steam'>
+      <CMSID>100044111</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Distributor>Steam-UPlay</Distributor>
+      <FRLPOPS>21</FRLPOPS>
+      <Files>
+        <File name='RainbowSix.exe' />
+        <File name='steam_api64.dll' />
+      </Files>
+      <Hypersampling>9</Hypersampling>
+      <HypersamplingFactors>2;4</HypersamplingFactors>
+      <Icon>RainbowSix.exe</Icon>
+      <Image>RainbowSix.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <IsStreamingSupported>1</IsStreamingSupported>
+      <Launch>start steam://rungameid/359550</Launch>
+      <SteamAppIds>
+        <id>359550</id>
+      </SteamAppIds>
+      <StreamingCaption>Rainbow Six</StreamingCaption>
+      <StreamingClassName>R6Game  (Unicode)</StreamingClassName>
+      <StreamingCmdLine>start steam://rungameid/359550</StreamingCmdLine>
+      <WhisperModePopsFactor>0.312</WhisperModePopsFactor>
+    </Version>
+    <Version name='dev2'>
+      <CMSID>100044111</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Distributor>UPlay</Distributor>
+      <FRLPOPS>21</FRLPOPS>
+      <Files>
+        <File name='scimitar_engine_win64_2012_q_dx11.exe' />
+        <File name='uplay_r1_loader64.dll' />
+      </Files>
+      <Icon>scimitar_engine_win64_2012_q_dx11.exe</Icon>
+      <Image>scimitar_engine_win64_2012_q_dx11.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <IsStreamingSupported>1</IsStreamingSupported>
+      <Launch>scimitar_engine_win64_2012_q_dx11.exe</Launch>
+      <StreamingCaption>Rainbow Six</StreamingCaption>
+      <StreamingClassName>R6Game  (Unicode)</StreamingClassName>
+      <StreamingCmdLine>scimitar_engine_win64_2012_q_dx11.exe</StreamingCmdLine>
+      <WhisperModePopsFactor>0.312</WhisperModePopsFactor>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='tom_clancys_the_division'>
+    <DisplayName>Tom Clancy&apos;s The Division</DisplayName>
+    <Version name='steam'>
+      <CMSID>8520111</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Files>
+        <File name='thedivision.exe' />
+        <File name='steam_api64.dll' />
+      </Files>
+      <Hypersampling>0</Hypersampling>
+      <HypersamplingFactors>2;4</HypersamplingFactors>
+      <Icon>thedivision.exe</Icon>
+      <Image>thedivision.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <IsStreamingSupported>1</IsStreamingSupported>
+      <Launch>start steam://rungameid/365590</Launch>
+      <SteamAppIds>
+        <id>365590</id>
+        <id>524440</id>
+      </SteamAppIds>
+      <StreamingAutomatedLaunch>1</StreamingAutomatedLaunch>
+      <StreamingCaption>Tom Clancy&apos;s The Division</StreamingCaption>
+      <StreamingClassName>Tom Clancy&apos;s The DivisionClass</StreamingClassName>
+      <StreamingCmdLine>start steam://rungameid/365590</StreamingCmdLine>
+    </Version>
+    <Version name='uplay'>
+      <CMSID>8520111</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Files>
+        <File name='TheDivision.exe' />
+        <File name='uplay_install.manifest' />
+      </Files>
+   

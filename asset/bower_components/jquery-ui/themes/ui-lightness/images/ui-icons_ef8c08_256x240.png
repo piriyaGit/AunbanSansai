@@ -1,0 +1,192 @@
+
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Paradise Cracked
+{ASCII}[PF_Issues] B,F,K
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Paradise Cracked/game
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Parashooter 3D
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] P3d
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] N
+{ULONG}[Value] 2
+{ULONG}[Compat] 5
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] PARG
+{ASCII}[PF_Issues] F
+{ASCII}[D_EXE_Name] Play
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Pariah
+{ASCII}[PF_Issues] C,F
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Pariah
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 3
+{ASCII}[Comments] Stereo Texture Enabled, unfixable 2D crosshair, clipped edges
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] PBA Bowling 2
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] BowlingR
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] PC Gamers Circuit Challenge
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] pcgamercc
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] TopView
+{ASCII}[Developer_Issues] Straight above view detracts from stereo effect.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Pearl Harbor: Defend the Fleet
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Pearl
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Pencil Whipped
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] Pnocomp
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] N
+{ULONG}[Value] 1
+{ULONG}[Compat] 5
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Near objects have wrong separation severely distorting stereo.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] PenG
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] PenG
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Perimeter
+{ASCII}[PF_Issues] F,E
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] perimeter
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Phantasy Star Online
+{ASCII}[PF_Issues] E,K
+{ASCII}[D_EXE_Name] Pso
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Phoenix
+{ASCII}[PF_Issues] F,H,K
+{ASCII}[D_EXE_Name] Alternity
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 3
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Pinky and the Brain: World Conquest
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] N
+{ULONG}[Value] 4
+{ULONG}[Compat] 5
+{ASCII}[Comments] TopView
+{ASCII}[Developer_Issues] Floor is at ZPD.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Plane Crazy
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] pcrazy
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Planet of the Apes
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] pota
+{ASCII}[Config] 
+{ULONG}[Value] 0
+{ULONG}[Compat] -1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Platoon
+{ASCII}[PF_Issues] A,K
+{ASCII}[D_EXE_Name] Platoon
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 4
+{ASCII}[Comments] Many objects at wrong depth
+{ASCII}[Developer_Issues] Horizon, men, other objects at monitor depth.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Ploing 2
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] p2demo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] POD
+{ASCII}[PF_Issue

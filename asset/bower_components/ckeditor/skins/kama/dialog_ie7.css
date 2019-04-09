@@ -1,0 +1,233 @@
+light2.exe' />
+        <File name='PAKS\DATA.PAK' />
+      </Files>
+      <Icon>Torchlight2.exe</Icon>
+      <Image>Torchlight2.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <Launch>Torchlight2.exe</Launch>
+    </Version>
+    <Version name='gog'>
+      <CMSID>18105811</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Files>
+        <File name='Torchlight2.exe' />
+        <File name='goglog.ini' />
+      </Files>
+      <GogAppId>1958228073</GogAppId>
+      <Icon>Torchlight2.exe</Icon>
+      <Image>Torchlight2.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <Launch>Torchlight2.exe</Launch>
+    </Version>
+    <Version name='origin'>
+      <CMSID>18105811</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Distributor>Origin</Distributor>
+      <Files>
+        <File name='Torchlight2.exe' />
+        <File name='PAKS\DATA.PAK' />
+        <File name='__installer\Cleanup.exe' />
+      </Files>
+      <Icon>Torchlight2.exe</Icon>
+      <Image>Torchlight2.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <Launch>Torchlight2.exe</Launch>
+      <OriginAppIds>
+        <id>Torchlight II</id>
+      </OriginAppIds>
+    </Version>
+    <Version name='steam'>
+      <CMSID>18105811</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Distributor>Steam</Distributor>
+      <Files>
+        <File name='Torchlight2.exe' />
+        <File name='steam_api.dll' />
+      </Files>
+      <Icon>Torchlight2.exe</Icon>
+      <Image>Torchlight2.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <Launch>start steam://rungameid/200710</Launch>
+      <SteamAppIds>
+        <id>200710</id>
+      </SteamAppIds>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='total_war_attila'>
+    <DisplayName>Total War: Attila</DisplayName>
+    <Version name='prerel'>
+      <CMSID>18105911</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Files>
+        <File name='Attila.exe' />
+        <File name='Attila.dll' />
+        <File name='steam_api.dll' />
+      </Files>
+      <Icon>Attila.exe</Icon>
+      <Image>Attila.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <IsStreamingSupported>0</IsStreamingSupported>
+      <Launch>start steam://rungameid/325610</Launch>
+      <SteamAppIds>
+        <id>325610</id>
+      </SteamAppIds>
+      <StreamingCaption>Total War: ATTILA</StreamingCaption>
+      <StreamingClassName>Shogun2</StreamingClassName>
+      <StreamingCmdLine>start steam://rungameid/325610</StreamingCmdLine>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='total_war_warhammer'>
+    <DisplayName>Total War&#x2122;: WARHAMMER&#xAE;</DisplayName>
+    <Version name='generic'>
+      <CMSID>18277811</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Distributor>Steam</Distributor>
+      <Files>
+        <File name='steam_api64.dll' />
+        <File name='Warhammer.exe' />
+      </Files>
+      <Hypersampling>-1</Hypersampling>
+      <HypersamplingFactors>2;4</HypersamplingFactors>
+      <Icon>Warhammer.exe</Icon>
+      <Image>Warhammer.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <IsStreamingSupported>0</IsStreamingSupported>
+      <Launch>start steam://rungameid/364360</Launch>
+      <SteamAppIds>
+        <id>364360</id>
+      </SteamAppIds>
+      <StreamingCaption>Total War&#x2122;: WARHAMMER&#xAE;</StreamingCaption>
+      <StreamingClassName>Shogun2</StreamingClassName>
+      <StreamingCmdLine>start steam://rungameid/364360</StreamingCmdLine>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='total_war_warhammer_ii'>
+    <DisplayName>Total War: WARHAMMER II</DisplayName>
+    <Version name='generic'>
+      <CMSID>100126111</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Distributor>Steam</Distributor>
+      <Files>
+        <File name='steam_api64.dll' />
+        <File name='Warhammer2.exe' />
+      </Files>
+      <Hypersampling>-1</Hypersampling>
+      <HypersamplingFactors>2;4</HypersamplingFactors>
+      <Icon>Warhammer2.exe</Icon>
+      <Image>Warhammer2.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <IsStreamingSupported>0</IsStreamingSupported>
+      <Launch>start steam://rungameid/594570</Launch>
+      <SteamAppIds>
+        <id>594570</id>
+      </SteamAppIds>
+      <StreamingCaption>Total War: WARHAMMER II</StreamingCaption>
+      <StreamingClassName>Shogun2</StreamingClassName>
+      <StreamingCmdLine>start steam://rungameid/594570</StreamingCmdLine>
+    </Version>
+    <Version name='partner'>
+      <CMSID>100126111</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Distributor>Steam</Distributor>
+      <Files>
+        <File name='steam_api64.dll' />
+        <File name='Warhammer2.exe' />
+      </Files>
+      <Hypersampling>-1</Hypersampling>
+      <HypersamplingFactors>2;4</HypersamplingFactors>
+      <Icon>Warhammer2.exe</Icon>
+      <Image>Warhammer2.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <IsStreamingSupported>0</IsStreamingSupported>
+      <Launch>start steam://rungameid/624440</Launch>
+      <SteamAppIds>
+        <id>624440</id>
+      </SteamAppIds>
+      <StreamingCaption>Total War: WARHAMMER II</StreamingCaption>
+      <StreamingClassName>Shogun2</StreamingClassName>
+      <StreamingCmdLine>start steam://rungameid/624440</StreamingCmdLine>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='train_simulator_2014'>
+    <DisplayName>Train Simulator 2014</DisplayName>
+    <Version name='steam'>
+      <Files>
+        <File name='Utilities.exe' />
+        <File name='RWAceTool.exe' />
+        <File name='RailWorks.exe' />
+        <File name='steam_api.dll' />
+      </Files>
+      <Icon>Utilities.exe</Icon>
+      <Image>RailWorks.exe</Image>
+      <Image>Utilities.exe</Image>
+      <Image>StringExtractor.exe</Image>
+      <Image>RWAceTool.exe</Image>
+      <Image>LogMate.exe</Image>
+      <Image>IAOptimiser.exe</Image>
+      <IsAutomatable>0</IsAutomatable>
+      <IsStreamingSupported>1</IsStreamingSupported>
+      <Launch>start steam://rungameid/24010</Launch>
+      <SteamAppIds>
+        <id>24010</id>
+      </SteamAppIds>
+      <StreamingCaption>Train Simulator 2014</StreamingCaption>
+      <StreamingClassName>RailWorks</StreamingClassName>
+      <StreamingCmdLine>start steam://rungameid/24010</StreamingCmdLine>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='transformers_online'>
+    <DisplayName>Transformers Online</DisplayName>
+    <Version name='TGP'>
+      <CMSID>100061811</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Distributor>TGP</Distributor>
+      <FRLPOPS>6</FRLPOPS>
+      <Files>
+        <File name='TFOL\Binaries\Win32\TFOL.exe' />
+        <File name='TCLS\Client.exe' />
+      </Files>
+      <Icon>TFOL\Binaries\Win32\TFOL.exe</Icon>
+      <Image>TFOL\Binaries\Win32\TFOL.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+      <Launch>TCLS\Client.exe</Launch>
+      <TencentAppId>507</TencentAppId>
+      <WhisperModePopsFactor>0.714</WhisperModePopsFactor>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='transistor'>
+    <DisplayName>Transistor</DisplayName>
+    <Version name='steam-generic'>
+      <CMSID>100016411</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Distributor>Steam</Distributor>
+      <Files>
+        <File name='x86\Transistor.exe' />
+        <File name='x86\steam_api.dll' />
+      </Files>
+      <Icon>x86\Transistor.exe</Icon>
+      <Image>Transistor.exe</Image>
+      <IsAutomatable>0</IsAutomatable>
+      <IsStreamingSupported>1</IsStreamingSupported>
+      <Launch>start steam://rungameid/237930</Launch>
+      <SteamAppIds>
+        <id>237930</id>
+      </SteamAppIds>
+      <StreamingCaption>OpenTK Game Window</StreamingCaption>
+      <StreamingClassName>182d33ed-f350-4500-9eec-ead4a0086b32</StreamingClassName>
+      <StreamingCmdLine>start steam://rungameid/237930</StreamingCmdLine>
+    </Version>
+  </Fingerprint>
+  <Fingerprint name='tree_of_savior'>
+    <DisplayName>Tree of Savior</DisplayName>
+    <Version name='steam'>
+      <CMSID>18114911</CMSID>
+      <CMSVersion>1</CMSVersion>
+      <Files>
+        <File name='release\patch\tos.exe' />
+        <File name='release\Client_tos.exe' />
+        <File name='release\steam_api.dll' />
+      </Files>
+      <Icon>release\Client_tos.exe</Icon>
+      <Image>release\Client_tos.exe</Image>
+      <IsAutomatable>1</IsAutomatable>
+  display:inline;cursor:inherit}.cke_hc a.cke_btn_locked,.cke_hc a.cke_btn_unlocked,.cke_hc a.cke_btn_reset{border-style:solid;float:left;width:auto;height:auto;padding:0 2px}.cke_rtl.cke_hc a.cke_btn_locked,.cke_rtl.cke_hc a.cke_btn_unlocked,.cke_rtl.cke_hc a.cke_btn_reset{float:right}.cke_hc a.cke_btn_locked .cke_icon{display:inline}a.cke_smile img{border:2px solid #eaead1}a.cke_smile:focus img,a.cke_smile:active img,a.cke_smile:hover img{border-color:#c7c78f}.cke_hc .cke_dialog_tabs a,.cke_hc .cke_dialog_footer a{opacity:1.0;filter:alpha(opacity=100);border:1px solid white}.cke_hc .ImagePreviewBox{width:260px}.cke_dialog_contents a.colorChooser{display:block;margin-top:6px;margin-left:10px;width:80px}.cke_rtl .cke_dialog_contents a.colorChooser{margin-right:10px}.cke_dialog_ui_checkbox_input:focus,.cke_dialog_ui_radio_input:focus,.cke_dialog_ui_input_select:focus,.cke_btn_over{outline:1px dotted #696969}.cke_iframe_shim{display:block;position:absolute;top:0;left:0;z-index:-1;filter:alpha(opacity=0);width:100%;height:100%}.cke_rtl input.cke_dialog_ui_input_text,.cke_rtl input.cke_dialog_ui_input_password{padding-right:2px}.cke_rtl div.cke_dialog_ui_input_text,.cke_rtl div.cke_dialog_ui_input_password{padding-left:2px}.cke_rtl div.cke_dialog_ui_input_text{padding-right:1px}.cke_rtl .cke_dialog_ui_vbox_child,.cke_rtl .cke_dialog_ui_hbox_child,.cke_rtl .cke_dialog_ui_hbox_first,.cke_rtl .cke_dialog_ui_hbox_last{padding-right:2px!important}.cke_dialog_title{margin-bottom:22px}.cke_single_page .cke_dialog_title{margin-bottom:10px}.cke_single_page .cke_dialog_footer{margin-top:22px}.cke_dialog_footer .cke_resizer{margin-top:27px}.cke_dialog_tabs{top:33px}.cke_dialog_footer_buttons{position:static;margin-top:7px;margin-right:24px}.cke_rtl .cke_dialog_footer_buttons{margin-right:0;margin-left:24px}.cke_rtl .cke_dialog_close_button{margin-top:0;position:absolute;left:10px;top:5px}span.cke_dialog_ui_buttonm{margin:2px 0}.cke_dialog_ui_checkbox_input,.cke_dialog_ui_ratio_input,.cke_btn_reset,.cke_btn_locked,.cke_btn_unlocked{border:1px solid transparent!important}input.cke_dialog_ui_input_text,input.cke_dialog_ui_input_password{position:absolute}div.cke_dialog_ui_input_text,div.cke_dialog_ui_input_password{height:14px;position:relative}

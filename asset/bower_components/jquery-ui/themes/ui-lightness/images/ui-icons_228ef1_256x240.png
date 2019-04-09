@@ -1,0 +1,189 @@
+EXE_Name] LithTech/NOLF2
+{ASCII}[R_Exe_Name] NOLF2
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] Stereo glitches often
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Nocturne
+{ASCII}[PF_Issues] A,J
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] N
+{ULONG}[Value] 3
+{ULONG}[Compat] 5
+{ASCII}[Comments] TopView
+{ASCII}[Developer_Issues] Only characters are 3D, rest is 2D
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] noire
+{ASCII}[PF_Issues] G
+{ASCII}[D_EXE_Name] em
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Text written over objects which are placed closer than text.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Nosferatu - The Wrath of Malachi
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] nosferatu
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NV Pinball
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] nvpinball
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Nvidia Stereo Test App
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] nvsttest
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Odium
+{ASCII}[PF_Issues] A,J
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] N
+{ULONG}[Value] 2
+{ULONG}[Compat] 5
+{ASCII}[Comments] TopView
+{ASCII}[Developer_Issues] Most of the world has no Z component.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Official Formula 1 Racing
+{ASCII}[PF_Issues] D,K
+{ASCII}[D_EXE_Name] OF1R_DEMO_HW3D
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] Pop up screens at non-zero depth get clipped at sides of monitor. Mirror views clipped incorrectly.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Offroad
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] OffRoad
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Off-Road Redneck Racing
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] Offroad
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Offshore 2000: Pro Surf Tour
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] AHRSOffshore99
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] lm
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Omikron: The Nomad Soul
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] Nomad
+{ASCII}[R_Exe_Name] Runtime
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Ominous Horizons
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] ominous
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Open Kart
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] KartDemo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Operation Flashpoint
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] OperationFlashpointDemo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] ORB Off-World Resource Base
+{ASCII}[PF_Issues] F,K
+{ASCII}[D_EXE_Name] orb
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Outpost Nyne
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] db-o9
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] TopView
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Outwars
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] owtrial
+{ASCI

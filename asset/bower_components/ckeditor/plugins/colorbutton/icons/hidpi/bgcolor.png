@@ -1,0 +1,26 @@
+anslation="Medio" />
+      <value name="Minimum" translation="Mínimo" />
+    </setting>
+    <setting name="Anti-aliasing Type" translation="Tipo de suavizado de líneas">
+      <value name="FXAA" translation="FXAA" />
+      <value name="SMAA" translation="SMAA" />
+    </setting>
+    <setting name="Bloom Effect" translation="Efecto Bloom (brillo)">
+      <value name="Off" translation="Desactivado" />
+      <value name="On" translation="Activado" />
+    </setting>
+    <setting name="Depth of Field" translation="Profundidad de campo">
+      <value name="Off" translation="Desactivado" />
+      <value name="On" translation="Activado" />
+    </setting>
+    <setting name="Display Mode" translation="Modo de pantalla">
+      <value name="Full-screen" translation="Pantalla completa" />
+      <value name="Windowed" translation="En ventana" />
+      <value name="Windowed Borderless" translation="En ventana sin borde" />
+    </setting>
+    <setting name="Effect Detail" translation="Detalle del efecto">
+      <value name="100%" translation="100%" />
+      <value name="25%" translation="25%" />
+      <value name="50%" translation="50%" />
+    </setting>
+    <setting name="Full-screen Effects" translation="Efectos de pa

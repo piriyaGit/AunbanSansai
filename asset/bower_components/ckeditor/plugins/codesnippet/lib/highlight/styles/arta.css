@@ -1,0 +1,54 @@
+e name="4" translation="4" />
+    </setting>
+    <setting name="Bloom" translation="Auréola">
+      <value name="Off" translation="Desactivar" />
+      <value name="On" translation="Activar" />
+    </setting>
+    <setting name="Characters Animation" translation="Animação de personagem">
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baixa" />
+      <value name="Medium" translation="Média" />
+    </setting>
+    <setting name="Characters Shadow" translation="Sombras de personagem">
+      <value name="High" translation="Alta" />
+      <value name="Medium" translation="Média" />
+      <value name="Off" translation="Desactivar" />
+    </setting>
+    <setting name="Depth of Field" translation="Profundidade de campo">
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baixa" />
+      <value name="Medium" translation="Média" />
+    </setting>
+    <setting name="Display Fog" translation="Mostrar nevoeiro">
+      <value name="Off" translation="Desactivar" />
+      <value name="On" translation="Activar" />
+    </setting>
+    <setting name="Display Mode" translation="Modo de visualização">
+      <value name="Full-screen" translation="Ecrã inteiro" />
+      <value name="Windowed" translation="Modo de janela" />
+    </setting>
+    <setting name="HDR Effect" translation="Efeito HDR">
+      <value name="Off" translation="Desactivar" />
+      <value name="On" translation="Activar" />
+    </setting>
+    <setting name="Meticulous Scene" translation="Detalhe da cena">
+      <value name="Off" translation="Desactivar" />
+      <value name="On" translation="Activar" />
+    </setting>
+    <setting name="Model Effect" translation="Efeito de modelos">
+      <value name="Off" translation="Desactivar" />
+      <value name="On" translation="Activar" />
+    </setting>
+    <setting name="Model Show Logic" translation="Mostrar lógica de modelos">
+      <value name="NPC" translation="NPC" />
+      <value name="Player" translation="Jogador" />
+    </setting>
+    <setting name="Object Animation" translation="Animação de objectos">
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baixa" />
+      <value name="Medium" translation="Média" />
+    </setting>
+    <setting name="Particle Effect" translation="Efeito de partículas">
+      <value name="Low" translation="Baixo" />
+      <value name="Medium" translation="Nível médio" />
+      <va

@@ -1,0 +1,278 @@
+PF_Issues] 
+{ASCII}[D_EXE_Name] speeddemo
+{ASCII}[R_Exe_Name] speed
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Need for Speed: High Stakes
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] nfshsd
+{ASCII}[R_Exe_Name] nfshs
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Nelson Piquet's Grand Prix Evolution
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] GPeDemo164
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Neocron
+{ASCII}[PF_Issues] F
+{ASCII}[D_EXE_Name] Client/neocron.ico
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Nerf Arena Blast
+{ASCII}[PF_Issues] F
+{ASCII}[D_EXE_Name] NerfDemo
+{ASCII}[R_Exe_Name] Nerf
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <Set Crosshair to 6(off) in User.ini [LaserSight]
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Net Race Live
+{ASCII}[PF_Issues] D,E
+{ASCII}[D_EXE_Name] Net Race Live Viewer
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] Mirrors clipped wrong, Text in cockpit mixed with 3D objects.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] New World Order
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] NWO
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 3
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Newman/Haas Racing
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] NewHaas
+{ASCII}[R_Exe_Name] NewHaas
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Nexus: The Jupiter Incident
+{ASCII}[PF_Issues] A,E,F,J,K
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] nexus_DX9
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 3
+{ASCII}[Comments] Pointer and HUD's are 2D
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NFK: Santa's Gone Postal
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] nfkxmas
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NFL Blitz
+{ASCII}[PF_Issues] H,K
+{ASCII}[D_EXE_Name] BlitzD3D
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NFL Blitz 2000
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] NoName/Blitz2KSR
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NFL Fever 2000
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] Nflfever
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NHL 2000
+{ASCII}[PF_Issues] H
+{ASCII}[D_EXE_Name] nhl2kd1F
+{ASCII}[R_Exe_Name] nhl2k
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <Turn off player names
+{ASCII}[Developer_Issues] Player names are at monitor depth.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NHL 2001
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] nhl2001demo
+{ASCII}[R_Exe_Name] nhl2001
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Blue background to pop-ups is in front of those pop-ups depthwise.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NHL 2002
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] nhl2002demo
+{ASCII}[R_Exe_Name] nhl2002
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NHL 2003
+{ASCII}[PF_Issues] E,J,H
+{ASCII}[D_EXE_Name] nhl2003Demo
+{ASCII}[R_Exe_Name] nhl2003
+{ASCII}[Config] 
+{ULONG}[Value] 2
+{ULONG}[Compat] 3
+{ASCII}[Comments] Problems with stereo flashing after rebooting. Crowd is flat, 2D.
+{ASCII}[Developer_Issues] Players glich during gameplay. (skate excessively fast randomply/ flash on and off the screen infrequently).
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NHL 2004
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] NHLDemo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NHL 2005
+{ASCII}[PF_Issues] E
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] nhl2005
+{ASCII}[Config] 
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NHL 2006
+{ASCII}[PF_Issues] E,G
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] nhl2006
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Lighting of background images (signs, fans) glitches slightly during gameplay.
+{ASCII}[Developer_Issues] Players/ice rink not affected while adjusting convergence during gameplay
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NHL 99
+{ASCII}[PF_Issues] E,K
+{ASCII}[D_EXE_Name] nhl99
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NHL Powerplay 98
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] pp_3d
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Player Names at wrong Depth
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NHRA Drag Racing
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] dragster
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] NHRA Drag Racing 2
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] dragster
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Nibbles 3D
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] temp
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Nice 2 (Excessive Speed)
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASC

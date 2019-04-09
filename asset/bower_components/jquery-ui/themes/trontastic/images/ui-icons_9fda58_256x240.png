@@ -1,0 +1,183 @@
+I}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Player names are 2D Move indicators are 2D
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Hot Wheels Beat That
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Hot
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Hunted - The Demons Forge
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DFGAME
+{ASCII}[Config] Y
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Some objects render incorrectly Some objects render at wrong depth
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Hyborian Adventures - Age of Conan
+{ASCII}[PF_Issues] A,E,H,K
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] AgeOfConan
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 5
+{ASCII}[Comments] Many objects at wrong depth
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] I Am Alive
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] iamalive_game
+{ASCII}[Config] 
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Some effects render incorrectly
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Ice age 3 - Dawn of the Dinosaurs
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] iceage3
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Some objects render at wrong depth
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] I-Fluid
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] I-Fluid
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Goto: Options/GFX Settings: Depth of Field = Off Mirrors = Off
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Ignite
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Ignite
+{ASCII}[Config] 
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Some effects render incorrectly
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Igor
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] NovaGame
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Imperium Romanum
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Imperium Romanum
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Turn Water Quality to Low
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Incredible Hulk
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Hulk
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] inMomentum
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] IMGame
+{ASCII}[Config] 
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Some objects render at wrong depth
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Insane 2
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] i2
+{ASCII}[Config] 
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Some objects render at wrong depth
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Inversion
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Inversion
+{ASCII}[Config] 
+{ULONG}[Value] 0
+{ULONG}[Compat] 0
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] iRacing
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] iRacingDemo
+{ASCII}[R_Exe_Name] iRacingSim
+{ASCII}[Config] Y
+{ULONG}[Value] 0
+{ULONG}[Compat] 0
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Iron Brigade
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] IronBrigade
+{ASCII}[Config] 
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Some objects render at wrong depth Some effects render incorrectly
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Ironman
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] IronMan
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] Glow is incorrect
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInf

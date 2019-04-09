@@ -1,0 +1,18 @@
+Compat\Appraiser\Telemetry\APPRAISER_UtcOutput_TH1.xml"/>
+				<Property Name="TelemetryOutputSendOffline" Value="[MT_TelemetryOutputterSendOffline]"/>
+				<Property Name="TelemetryOutputSendFullSync" Value="[MT_TelemetryOutputterSendFullSync]"/>
+				<Property Name="TelemetryOutputPreviousBinaryPath" Value="%WINDIR%\AppCompat\Appraiser\APPRAISER_TelemetryBaseline_TH1.bin"/>
+				<Property Name="TargetVersion" Value="TH1"/>
+				<Property Name="TelemetryOutputFilterTableName" Value="FT_ANY_IncludeInTelemetry"/></Component>
+			<Component Type="Outputter" SpecificIdentifier="Versioned Binary Outputter TH1" TypeIdentifier="OutputBinary" NonFatalInit="TRUE">
+				<Property Name="OutputBinTier" Value="Inventory"/>
+				<Property Name="OutputBinTier" Value="DataSource"/>
+				<Property Name="OutputBinTier" Value="DecisionMaker"/>
+				<Property Name="OutputBinTier" Value="DecisionAggregator"/>
+				<Property Name="OutputBinFilePath" Value="%WINDIR%\AppCompat\Appraiser\APPRAISER_TelemetryBaseline_TH1.bin"/>
+				<Property Name="OutputBinFilterName" Value="FT_ANY_IncludeInTelemetry"/><Property Name="OutputBinAllowRunOffline" Value="[MT_TelemetryOutputterSendOffline]"/>
+				<Property Name="TargetVersion" Value="TH1"/>
+			</Component>
+			<Component Type="Outputter" SpecificIdentifier="Registry Marker Outputter TH1" TypeIdentifier="OutputRegistryMarker">
+				<Property Name="OutputRegistryMarkerGeneralTelMarkersChecksumValidityRequired" Value="TRUE"/>
+				<Property Name="OutputRegistryMarkerGeneral

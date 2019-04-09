@@ -1,0 +1,258 @@
+eginGameInfo]
+{ASCII}[GameName] Rayman 2
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] Rayman2Demo
+{ASCII}[R_Exe_Name] Rayman2
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Text and Hud at bad depth to be viewed in stereo.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] RC Cars
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] RCCarsDemo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] RC Daredevil
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] RC Daredevil
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] RC Daredevil
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] RC Daredevil
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] RC Simulator
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] RCSimulator
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Real Car Simulator R
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Simr
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] realMyst
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] RealMYST
+{ASCII}[R_Exe_Name] RealMYST
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Pointer is not at correct depth.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Rebel Trucker
+{ASCII}[PF_Issues] G
+{ASCII}[D_EXE_Name] Rebel Trucker
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Recon
+{ASCII}[PF_Issues] C,F,K
+{ASCII}[D_EXE_Name] Recon
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Red Ace, Master of the Skies
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] acenet_client_release
+{ASCII}[R_Exe_Name] RedAce
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Red Faction
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] RF
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Red Faction 2
+{ASCII}[PF_Issues] F,I
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] rf2
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] Players appear slightly flat. Guns glitch sporadically during fighting. Overall lighting is very dark and it is hard to make out certain 3D objects
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Red Shark (English)
+{ASCII}[PF_Issues] F
+{ASCII}[D_EXE_Name] RedShark
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Red Shark Rusian
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] RedShark
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Redline
+{ASCII}[PF_Issues] K,C
+{ASCII}[D_EXE_Name] Redline
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 3
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] HUD is placed behind gun (at gunsight depth) but drawn in front of gun. Cannot fix this.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Redline Racer
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] rlr_D3d_demo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Remote Assault
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] ra
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] Topview
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Renegade Command & Conquer
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] RenegadeDemo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Turn off in-game sight
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Renegade Racers
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] rrDemo
+{ASCII}[R_Exe_Name] rr
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] <
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Requiem: Avenging Angel
+{ASCII}[PF_Issues] F,K
+{ASCII}[D_EXE_Name] ReqDemo_D3D
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Resident Evil 3
+{ASCII}[PF_Issues] A,J
+{ASCII}[D_EXE_Name] ResidentEvil3
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] N
+{ULONG}[Value] 3
+{ULONG}[Compat] 4
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] Whole world is at same depth.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Resurrection
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] ResurrectionDemo
+{ASCII}[R_Exe_Name] 
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Revenant
+{ASCII}[PF_Issues] A,C,D,E,F,J
+{ASCII}[D_EXE_Name] revenant
+{ASCII}[R_Exe_Name] revenant
+{ASCII}[Config] N
+{ULONG}[Value] 3
+{ULONG}[Compat] 5
+{ASCII}[Comments] TopView
+{ASCII}[Developer_Issues] Whole world is at same depth, Severe flashing and lack of update on panels.
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Reversible Face
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{A

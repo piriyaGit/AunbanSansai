@@ -1,0 +1,34 @@
+
+      <value name="Full-screen" translation="במלוא שטח הצג" />
+      <value name="Windowed" translation="תצוגה בחלון" />
+      <value name="Windowed Borderless" translation="חלונות ללא מסגרת" />
+    </setting>
+    <setting name="Dynamic Light Limit" translation="הגבלת אור דינמית">
+      <value name="2" translation="2" />
+      <value name="3" translation="3" />
+      <value name="4" translation="4" />
+      <value name="5" translation="5" />
+      <value name="6" translation="6" />
+      <value name="7" translation="7" />
+      <value name="8" translation="8" />
+    </setting>
+    <setting name="Fill Remaining Memory" translation="מילוי זיכרון נותר">
+      <value name="Off" translation="מושבתות" />
+      <value name="On" translation="פעילה" />
+    </setting>
+    <setting name="Medium Distance Ambient Occlusion" translation="הצללה בשיטה 'הסתרה סביבתית' למרחק בינוני">
+      <value name="Off" translation="מושבתת" />
+      <value name="On" translation="פעילה" />
+    </setting>
+    <setting name="Normal Map Resolution" translation="רזולוציה רגילה של מפה">
+      <value name="Automatic" translation="אוטומטית" />
+      <value name="Extra" translation="מעולה" />
+      <value name="High" translation="גבוהה" />
+      <value name="Low" translation="נמוכה" />
+      <value name="Normal" translation="רגילה" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="החלקת שינון באמצעות דגימה מרובת מסגרות של NVIDIA">
+      <value name="Off" translation="כבוי" />
+      <value name="On" translation="מופעל" />
+    </setting>
+    <setti

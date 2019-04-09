@@ -1,0 +1,560 @@
+D_EXE_Name] Crysis\../Game/Music
+{ASCII}[R_Exe_Name] Crysis\../Game/Music
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Comments] Water reflection and clouds are not correct.  Set Shadows to minimum/shaders and Post Processing to mainstream or lower. Turn Motion Blur off.  Turn off in game laser sight (In mouse and keyboard setup) Use Nvidia Laser sight.
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Crysis 2
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] Crysis2
+{ASCII}[R_Exe_Name] Crysis2demo
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Gun renders with a halo around it
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Crysis Warhead
+{ASCII}[PF_Issues] F,K
+{ASCII}[D_EXE_Name] Crysys\../Game/Warhead_Music
+{ASCII}[R_Exe_Name] Crysys\../Game/Warhead_Music
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Water reflection and clouds are not correct.  Set Shadows to minimum/shaders and Post Processing to mainstream or lower.  Turn Motion Blur off.  Turn off in game laser sight (In mouse and keyboard setup).  Use Nvidia Laser sight.
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] CSI: Hard Evidence
+{ASCII}[PF_Issues] K
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] CSI4
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 3
+{ASCII}[Comments] Menus and menu text are are at dif depths.
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Curling
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Curling
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Cursor renders at screen depth
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] D&D Online
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] dndclient
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Go to: Options/Adv Graphics Video Post Effects = Off Some objects render at wrong depth Some effects render incorrectly
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Da Vinci Online
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DVGame
+{ASCII}[Config] 
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Some objects render at wrong depth Some effects render incorrectly
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Damnation
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DamnGame
+{ASCII}[Config] Y
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Go to: Options/Video Settings: Post Process Quality = Low Shadow Quality = Low Use NVIDIA laser sight Crtl+F12 Shadows/Fog/smoke render halo around character
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dao Jian 2
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] bo2c_main
+{ASCII}[Config] Y
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Some objects render at wrong depth
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dark Horizon
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] dark_horizon
+{ASCII}[Config] Y
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Some elements of sky are rendered at wrong depth Selection and interaction icons are 2D Laser sight is 2D
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dark Sector
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DS
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Sky is at wrong depth Slight halo with shadows
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dark Souls
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DATA
+{ASCII}[Config] 
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Some effects render incorrectly
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dark Void
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] ShippingPC-SkyGame
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Some objects render at wrong depth.
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Darkness 2
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DarknessII
+{ASCII}[Config] Y
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Some effects render incorrectly  Go to: Options/Display: Shadow Quality = Low
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Darksiders
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DarksidersPC
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Enemy icons render 2D
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Darkspore
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Darkspore
+{ASCII}[Config] Y
+{ULONG}[Value] 5
+{ULONG}[Compat] 5
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dawn
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] Dawn64
+{ASCII}[R_Exe_Name] Dawn32
+{ASCII}[Config] 
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Some objects render at wrong depth Some effects render incorrectly
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dawn of Discovery
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Anno4
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Water reflections are not rendered correctly Go to options/Garphics options: Water reflections = off Water quality = low
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dawn of War 2
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DOW2
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Player Icons are 2D
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] DC Universe Online
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DCGame
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Some objects render at wrong depth Shadows render incorrectly Smoke and fog cause halo around character
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] DCS: Black Shark
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] dcs
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Target icons are 2D
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dead Island
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DeadIslandGame
+{ASCII}[Config] Y
+{ULONG}[Value] 4
+{ULONG}[Compat] 4
+{ASCII}[Comments] Some objects render at wrong depth Some effects render incorrectly
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dead Reefs
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DeadReefs
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Turn off Bloom
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dead Rising 2
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] deadrising2
+{ASCII}[Config] Y
+{ULONG}[Value] 0
+{ULONG}[Compat] 0
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dead Rising 2 DC
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] deadrising2dc
+{ASCII}[Config] 
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Some objects render at wrong depth
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dead Space
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Dead Space
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 3
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dead Space 2
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] deadspace2
+{ASCII}[Config] Y
+{ULONG}[Value] 4
+{ULONG}[Compat] 4
+{ASCII}[Comments] Go To: Setting/Visuals/Custom Render Settings Shadow Quality = Off  Some objects render at wrong depth Some lights render incorrectly Fog renders halo around character
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dear Esther
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] dearesther
+{ASCII}[Config] 
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Some effects render incorrectly Ctrl+T to toggle stereo while under water
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] DeathSpank
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] deathspank
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Some objects render 2D
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Deathtrack
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] deathtrack
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Deep Black
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DeepBlack
+{ASCII}[Config] Y
+{ULONG}[Value] 0
+{ULONG}[Compat] 0
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Delta Force Blackhawk Down
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] dfbhd
+{ASCII}[Config] Y
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Friendly fire indicators are 2D
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Demigod
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Demigod
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Depth Hunter
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] depthhunter
+{ASCII}[Config] 
+{ULONG}[Value] 0
+{ULONG}[Compat] 0
+{ASCII}[Comments] 
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Deus Ex: Human Revolution
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] dxhr
+{ASCII}[Config] 
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Options>Video>Advanced Shadows=Normal
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Devil May Cry 4
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] DevilMayCry4_Trial_DX9
+{ASCII}[R_Exe_Name] DevilMayCry4_DX9
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Turn Shadows OFF; Shadows in cut scenes wrong
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Devil May Cry 4 (DX10)
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DevilMayCry4_DX10
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 1
+{ASCII}[Comments] Turn Shadows OFF; Shadows in cut scenes wrong
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Devil May Cry 5
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] DevilGame
+{ASCII}[R_Exe_Name] DevilGame-Win32-Shipping
+{ASCII}[Config] 
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Some effects render incorrectly
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Diablo III
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] Diablo III
+{ASCII}[Config] 
+{ULONG}[Value] 2
+{ULONG}[Compat] 2
+{ASCII}[Comments] Some objects render at the wrong depth Some objects render incorrectly
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dino D-Day
+{ASCII}[PF_Issues] 
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] dinodday
+{ASCII}[Config] 
+{ULONG}[Value] 3
+{ULONG}[Compat] 3
+{ASCII}[Comments] Some objects render at wrong depth
+{ASCII}[Developer_Issues] 
+{LABEL}[EndGameInfo]
+{LABEL}[BeginGameInfo]
+{ASCII}[GameName] Dirt
+{ASCII}[PF_Issues] A
+{ASCII}[D_EXE_Name] 
+{ASCII}[R_Exe_Name] DiRT
+{ASCII}[Config] Y
+{ULONG}[Value] 1
+{ULONG}[Compat] 2
+{ASCII}[Coon-plus { background-position: -16px -128px; }
+.ui-icon-plusthick { background-position: -32px -128px; }
+.ui-icon-minus { background-position: -48px -128px; }
+.ui-icon-minusthick { background-position: -64px -128px; }
+.ui-icon-close { background-position: -80px -128px; }
+.ui-icon-closethick { background-position: -96px -128px; }
+.ui-icon-key { background-position: -112px -128px; }
+.ui-icon-lightbulb { background-position: -128px -128px; }
+.ui-icon-scissors { background-position: -144px -128px; }
+.ui-icon-clipboard { background-position: -160px -128px; }
+.ui-icon-copy { background-position: -176px -128px; }
+.ui-icon-contact { background-position: -192px -128px; }
+.ui-icon-image { background-position: -208px -128px; }
+.ui-icon-video { background-position: -224px -128px; }
+.ui-icon-script { background-position: -240px -128px; }
+.ui-icon-alert { background-position: 0 -144px; }
+.ui-icon-info { background-position: -16px -144px; }
+.ui-icon-notice { background-position: -32px -144px; }
+.ui-icon-help { background-position: -48px -144px; }
+.ui-icon-check { background-position: -64px -144px; }
+.ui-icon-bullet { background-position: -80px -144px; }
+.ui-icon-radio-on { background-position: -96px -144px; }
+.ui-icon-radio-off { background-position: -112px -144px; }
+.ui-icon-pin-w { background-position: -128px -144px; }
+.ui-icon-pin-s { background-position: -144px -144px; }
+.ui-icon-play { background-position: 0 -160px; }
+.ui-icon-pause { background-position: -16px -160px; }
+.ui-icon-seek-next { background-position: -32px -160px; }
+.ui-icon-seek-prev { background-position: -48px -160px; }
+.ui-icon-seek-end { background-position: -64px -160px; }
+.ui-icon-seek-start { background-position: -80px -160px; }
+/* ui-icon-seek-first is deprecated, use ui-icon-seek-start instead */
+.ui-icon-seek-first { background-position: -80px -160px; }
+.ui-icon-stop { background-position: -96px -160px; }
+.ui-icon-eject { background-position: -112px -160px; }
+.ui-icon-volume-off { background-position: -128px -160px; }
+.ui-icon-volume-on { background-position: -144px -160px; }
+.ui-icon-power { background-position: 0 -176px; }
+.ui-icon-signal-diag { background-position: -16px -176px; }
+.ui-icon-signal { background-position: -32px -176px; }
+.ui-icon-battery-0 { background-position: -48px -176px; }
+.ui-icon-battery-1 { background-position: -64px -176px; }
+.ui-icon-battery-2 { background-position: -80px -176px; }
+.ui-icon-battery-3 { background-position: -96px -176px; }
+.ui-icon-circle-plus { background-position: 0 -192px; }
+.ui-icon-circle-minus { background-position: -16px -192px; }
+.ui-icon-circle-close { background-position: -32px -192px; }
+.ui-icon-circle-triangle-e { background-position: -48px -192px; }
+.ui-icon-circle-triangle-s { background-position: -64px -192px; }
+.ui-icon-circle-triangle-w { background-position: -80px -192px; }
+.ui-icon-circle-triangle-n { background-position: -96px -192px; }
+.ui-icon-circle-arrow-e { background-position: -112px -192px; }
+.ui-icon-circle-arrow-s { background-position: -128px -192px; }
+.ui-icon-circle-arrow-w { background-position: -144px -192px; }
+.ui-icon-circle-arrow-n { background-position: -160px -192px; }
+.ui-icon-circle-zoomin { background-position: -176px -192px; }
+.ui-icon-circle-zoomout { background-position: -192px -192px; }
+.ui-icon-circle-check { background-position: -208px -192px; }
+.ui-icon-circlesmall-plus { background-position: 0 -208px; }
+.ui-icon-circlesmall-minus { background-position: -16px -208px; }
+.ui-icon-circlesmall-close { background-position: -32px -208px; }
+.ui-icon-squaresmall-plus { background-position: -48px -208px; }
+.ui-icon-squaresmall-minus { background-position: -64px -208px; }
+.ui-icon-squaresmall-close { background-position: -80px -208px; }
+.ui-icon-grip-dotted-vertical { background-position: 0 -224px; }
+.ui-icon-grip-dotted-horizontal { background-position: -16px -224px; }
+.ui-icon-grip-solid-vertical { background-position: -32px -224px; }
+.ui-icon-grip-solid-horizontal { background-position: -48px -224px; }
+.ui-icon-gripsmall-diagonal-se { background-position: -64px -224px; }
+.ui-icon-grip-diagonal-se { background-position: -80px -224px; }
+
+
+/* Misc visuals
+----------------------------------*/
+
+/* Corner radius */
+.ui-corner-all,
+.ui-corner-top,
+.ui-corner-left,
+.ui-corner-tl {
+	border-top-left-radius: 6px;
+}
+.ui-corner-all,
+.ui-corner-top,
+.ui-corner-right,
+.ui-corner-tr {
+	border-top-right-radius: 6px;
+}
+.ui-corner-all,
+.ui-corner-bottom,
+.ui-corner-left,
+.ui-corner-bl {
+	border-bottom-left-radius: 6px;
+}
+.ui-corner-all,
+.ui-corner-bottom,
+.ui-corner-right,
+.ui-corner-br {
+	border-bottom-right-radius: 6px;
+}
+
+/* Overlays */
+.ui-widget-overlay {
+	background: #262626 url("images/ui-bg_diagonals-small_50_262626_40x40.png") 50% 50% repeat;
+	opacity: .3;
+	filter: Alpha(Opacity=30); /* support: IE8 */
+}
+.ui-widget-shadow {
+	margin: -6px 0 0 -6px;
+	padding: 6px;
+	background: #303030 url("images/ui-bg_flat_0_303030_40x100.png") 50% 50% repeat-x;
+	opacity: .5;
+	filter: Alpha(Opacity=50); /* support: IE8 */
+	border-radius: 12px;
+}

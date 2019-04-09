@@ -1,0 +1,30 @@
+e name="High" translation="גבוהה" />
+      <value name="Low" translation="נמוכה" />
+      <value name="Medium" translation="בינונית" />
+      <value name="Ultra" translation="אולטרה" />
+    </setting>
+    <setting name="Graphics Quality" translation="איכות הגרפיקה">
+      <value name="Auto" translation="אוטומטית" />
+      <value name="Custom" translation="התאמה אישית" />
+      <value name="High" translation="גבוהה" />
+      <value name="Low" translation="נמוכה" />
+      <value name="Medium" translation="בינונית" />
+      <value name="Ultra" translation="אולטרה" />
+    </setting>
+    <setting name="Lighting Quality" translation="איכות תאורה">
+      <value name="High" translation="גבוהה" />
+      <value name="Low" translation="נמוכה" />
+      <value name="Medium" translation="בינונית" />
+      <value name="Ultra" translation="אולטרה" />
+    </setting>
+    <setting name="Mesh Quality" translation="איכות הרשת">
+      <value name="High" translation="גבוהה" />
+      <value name="Low" translation="נמוכה" />
+      <value name="Medium" translation="בינונית" />
+      <value name="Ultra" translation="אולטרה" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="החלקת שינון באמצעות דגימה מרובת מסגרות של NVIDIA">
+      <value name="Off" translation="כבוי" />
+      <value name="On" translation="מופעל" />
+    </setting>
+    <setting name="Post-process
